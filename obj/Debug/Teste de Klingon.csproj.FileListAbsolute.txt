@@ -1,7 +1,0 @@
-C:\C# Alura\Teste de Klingon\Teste de Klingon\bin\Debug\Teste de Klingon.exe.config
-C:\C# Alura\Teste de Klingon\Teste de Klingon\bin\Debug\Teste de Klingon.exe
-C:\C# Alura\Teste de Klingon\Teste de Klingon\bin\Debug\Teste de Klingon.pdb
-C:\C# Alura\Teste de Klingon\Teste de Klingon\obj\Debug\Teste de Klingon.csprojAssemblyReference.cache
-C:\C# Alura\Teste de Klingon\Teste de Klingon\obj\Debug\Teste de Klingon.csproj.CoreCompileInputs.cache
-C:\C# Alura\Teste de Klingon\Teste de Klingon\obj\Debug\Teste de Klingon.exe
-C:\C# Alura\Teste de Klingon\Teste de Klingon\obj\Debug\Teste de Klingon.pdb
